@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bestine Payyappilly
 - 👀 I’m interested in React Native development
 - 🌱 I’m currently learning firebase and react native.
-- 💞️ I’m looking to collaborate on react native projects
+- 🥸 I’m looking to collaborate on react native projects
 - 📫 How to reach me email:bestine@outlook.in
 
 <!---
